@@ -1,6 +1,6 @@
 # Intro to Data Analytics & Visualisations 
 
-- [Slide Deck from today](https://bit.ly/38nMPBo)
+- [Slide Deck from today](https://bit.ly/2Nt4ajG)
 
 - [SQL Compiler](https://www.db-fiddle.com/)
 
@@ -123,4 +123,4 @@ If you need any help, feel free to reach out to me at:
 [LinkedIn](https://www.linkedin.com/in/sheilaleveille/)
 [Personal Website](www.sheilaleveille.com)
 
-The [Slide Deck](https://bit.ly/38nMPBo) from today. 
+The [Slide Deck](https://bit.ly/2Nt4ajG) from today. 
